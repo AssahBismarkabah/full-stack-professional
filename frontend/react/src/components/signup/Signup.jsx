@@ -19,7 +19,7 @@ const Signup = () => {
             <Flex p={8} flex={1} alignItems={'center'} justifyContent={'center'}>
                 <Stack spacing={4} w={'full'} maxW={'md'}>
                     <Image
-                        src={"https://user-images.githubusercontent.com/40702606/210880158-e7d698c2-b19a-4057-b415-09f48a746753.png"}
+                        src={"https://cdn.vectorstock.com/i/1000x1000/70/34/hand-care-admin-icon-simple-style-vector-27507034.webp"}
                         boxSize={"200px"}
                         alt={"Amigoscode Logo"}
                         alignSelf={"center"}
